@@ -8,7 +8,7 @@ visual system from task or resting-state data.
 It is described in:
 Invernizzi A., Haak K.V., Carvalho J.C., Renken R.J, Cornelissen F.W.
  'Bayesian Connective Field Modeling: a Markov Chain Monte Carlo
- approach', doi: https://doi.org/10.1101/2020.09.03.281162
+ approach'. Neuroimage. 2022 Dec 1;264:119688. doi: 10.1016/j.neuroimage.2022.119688. Epub 2022 Oct 21. PMID: 36280097.
 
 MCMC CF frameworks is Matlab-based and works with few mrVista scripts
 (https://web.stanford.edu/group/vista/cgi-bin/wiki/index.php/MrVista).
